@@ -1,0 +1,49 @@
+body{
+    
+    background-image: url(https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8YmFja2dyb3VuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500)
+
+}
+#show_products{
+    background-color: aquamarine;
+    color: black;
+    font-size: larger;
+    border-radius: 7px;
+    padding: 7px 15px;
+    margin-left: 10px;
+}
+h2{
+    margin-left: 700px;
+    font-weight: bold;
+    color: royalblue;
+   
+    
+}
+#products{
+    width: 35%;
+    height: 350px;
+   border: 40px solid lightskyblue;
+   justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 10px;
+    background-color: royalblue;
+}
+
+#products input{
+    width: 85%;
+    height: 20px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 4px;
+    
+}
+#add_product{
+    background-color: aquamarine;
+    color: black;
+    font-size: larger;
+    border-radius: 7px;
+    padding: 7px 15px;
+    margin-left: 10px;
+}
